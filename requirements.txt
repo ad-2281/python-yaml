@@ -6,6 +6,6 @@ pytest          ~= 7.1
 pytest-cov      ~= 3.0
 pytest-html     ~= 3.1
 pytest-metadata ~= 2.0
-PyYAML          == 3.12
+PyYAML          == 5.4
 yamllint        ~= 1.26
 python          == 3.7.5
