@@ -8,5 +8,4 @@ pytest-html     ~= 3.1
 pytest-metadata ~= 2.0
 PyYAML          == 3.12
 yamllint        ~= 1.26
-Jinja2          == 2.10
 python          == 3.7.5
